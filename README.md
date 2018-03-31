@@ -1,1 +1,1 @@
-# clickiz
+# clickarz
